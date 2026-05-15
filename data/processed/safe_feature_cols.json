@@ -1,0 +1,23 @@
+[
+  "arr_hour",
+  "dep_hour",
+  "arr_hour_sin",
+  "arr_hour_cos",
+  "dep_hour_sin",
+  "dep_hour_cos",
+  "dow_sin",
+  "dow_cos",
+  "month_sin",
+  "month_cos",
+  "is_weekend",
+  "is_overnight",
+  "turnaround_log",
+  "same_pax_cargo",
+  "same_origin_dest",
+  "tt_rank",
+  "tt_rank_pct",
+  "is_closest",
+  "n_candidates",
+  "n_competitors_dep",
+  "dep_hr_congestion"
+]
