@@ -1,0 +1,24 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+numpy = "*"
+pandas = "*"
+scikit-learn = "*"
+xgboost = "*"
+lightgbm = "*"
+openpyxl = "*"        # read .xlsx schedule files
+pyarrow = "*"         # parquet I/O for intermediate artefacts
+joblib = "*"          # model + transforms persistence
+
+[dev-packages]
+pytest = "*"
+jupyter = "*"
+ipykernel = "*"
+matplotlib = "*"
+seaborn = "*"
+
+[requires]
+python_version = "3.14"
